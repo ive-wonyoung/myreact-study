@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Cangzhou Shi",
+      "country": "China",
+      "emoji": "CN",
+      "date": "2026-05-14T19:58:04.664Z",
+      "notes": "",
+      "position": {
+        "lat": "37.52663",
+        "lng": "116.463346"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Provinsi Jawa Tengah",
+      "country": "Indonesia",
+      "emoji": "ID",
+      "date": "2026-05-15T07:16:40.288Z",
+      "notes": "",
+      "position": {
+        "lat": "1.58518",
+        "lng": "105.531424"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Kuala Belait",
+      "country": "Brunei Darussalam",
+      "emoji": "BN",
+      "date": "2026-05-15T07:17:12.145Z",
+      "notes": "",
+      "position": {
+        "lat": "4.39146",
+        "lng": "114.602298"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Sanming",
+      "country": "China",
+      "emoji": "CN",
+      "date": "2026-05-15T07:37:30.255Z",
+      "notes": "我家\n",
+      "position": {
+        "lat": "26.246297",
+        "lng": "117.613099"
+      },
+      "id": 98443203
+    }
+  ]
+}
